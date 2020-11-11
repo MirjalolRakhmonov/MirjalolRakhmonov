@@ -2,4 +2,13 @@
 
 - 🌱 I’m currently learning Java , including Spring , Spring Boot, Hibernate and so on...
 
-<img source="https://github-readme-stats.vercel.app/api?username=MirjalolRakhmonov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=MirjalolRakhmonov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<center>
+  <table>	  <table>
+  <tr>	  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=MirjalolRakhmonov&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>	      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=MirjalolRakhmonov&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirjalolRakhmonov&hide=html&layout=compact" /></td>	      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirjalolRakhmonov&hide=html&layout=compact" /></td>
+  </tr>   	  </tr>   
+</table>	</table>
+</center>	</center>
