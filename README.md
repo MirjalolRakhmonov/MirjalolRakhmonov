@@ -6,6 +6,7 @@ them in practice.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mirjalol-rakhmonov-922939152/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
+<a href="https://www.facebook.com/mirjalol.rakhmonov2712/"><img align="left" alt="Facebook" src="https://img.shields.io/badge/-Facebook-%235d8239?logo=Facebook&logoColor=white&logoPosition=right&labelColor=grey" /></a>
 <a href="mailto:mirjalolrakhmonov@yahoo.com"> <img src="https://img.shields.io/badge/-Yahoo-%235d8239?logo=Yahoo&logoColor=white&logoPosition=right&labelColor=grey"/></a>
 
 ##
