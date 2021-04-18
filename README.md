@@ -1,6 +1,6 @@
 ### Welcome to my little info site.
 
-About me : Enthusiast student of Computer Science , eager to contribute to team success through hard work, attention to details and excellent skills. Good understanding of backend development specializing to full stack
+About me : Enthusiast of Computer Science , eager to contribute to team success through hard work, attention to details and excellent skills. Good understanding of backend development specializing to full stack
 environment. Motivated to learn, grow and expand in IT and programming industry. Passionate about new technologies and creating
 them in practice.
 
