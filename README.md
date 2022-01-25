@@ -1,8 +1,16 @@
 ### Welcome to my little info site.
 
-About me : Enthusiast of Computer Science , eager to contribute to team success through hard work, attention to details and excellent skills. Good understanding of backend development specializing to full stack
-environment. Motivated to learn, grow and expand in IT and programming industry. Passionate about new technologies and creating
-them in practice.
+About me : Enthusiast Robotic Process Automation
+developer with good experience
+in business process improvement
+and automation projects. Passionate about new
+technologies and creating them
+in practice. Successfully combines the
+knowledge of business with the
+knowledge of technologies such
+as Robotics Automation to
+reduce complexity for both
+customers and colleagues.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mirjalol-rakhmonov-922939152/"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%235d8239?logo=LinkedIn&logoColor=white&logoPosition=right&labelColor=grey" /></a>
